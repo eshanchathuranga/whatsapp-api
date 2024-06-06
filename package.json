@@ -1,0 +1,17 @@
+{
+  "name": "add-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "^6.7.4",
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
